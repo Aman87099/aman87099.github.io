@@ -34,7 +34,7 @@
   width: 100%;
   height: 100vh;
   background-image: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)),
-    url(/images/home2.jpg);
+    url(./images/home2.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -49,7 +49,7 @@
   width: 100%;
   height: 100vh;
   background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),
-    url(/images/contactme2.jpg);
+    url(./images/contactme2.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -57,7 +57,7 @@
   width: 100%;
   height: 100vh;
   background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),
-    url(/images/Education3.png);
+    url(./images/Education3.png);
   background-size: cover;
   background-position: center;
 }
